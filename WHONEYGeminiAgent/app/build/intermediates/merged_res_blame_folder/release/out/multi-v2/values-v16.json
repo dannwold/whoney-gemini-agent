@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.whoney.geminiagent.app-mergeReleaseResources-2:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/jules/.gradle/caches/8.8/transforms/23075bab7becc55cd550d3182cca414c/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
